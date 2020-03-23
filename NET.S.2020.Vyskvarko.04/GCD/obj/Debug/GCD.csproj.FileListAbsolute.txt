@@ -1,0 +1,9 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCD\bin\Debug\GCD.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCD\bin\Debug\GCD.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCD\obj\Debug\GCD.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCD\obj\Debug\GCD.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCD\obj\Debug\GCD.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD\bin\Debug\GCD.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD\bin\Debug\GCD.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD\obj\Debug\GCD.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD\obj\Debug\GCD.pdb

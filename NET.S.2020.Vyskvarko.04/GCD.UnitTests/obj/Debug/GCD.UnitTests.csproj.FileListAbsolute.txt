@@ -1,0 +1,11 @@
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\GCD.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\GCD.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\obj\Debug\GCD.UnitTests.csprojAssemblyReference.cache
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\obj\Debug\GCD.UnitTests.csproj.CopyComplete
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\GCD.UnitTests.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\bin\Debug\GCD.UnitTests.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\obj\Debug\GCD.UnitTests.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\GCD.UnitTests\obj\Debug\GCD.UnitTests.pdb

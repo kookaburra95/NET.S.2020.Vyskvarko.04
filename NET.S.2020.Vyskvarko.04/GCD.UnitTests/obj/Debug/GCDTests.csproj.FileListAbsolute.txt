@@ -1,0 +1,11 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\GCDTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\GCDTests.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\GCD.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\nunit.framework.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\GCD.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\nunit.framework.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\bin\Debug\nunit.framework.xml
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\obj\Debug\GCDTests.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\obj\Debug\GCDTests.csproj.CopyComplete
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\obj\Debug\GCDTests.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\GCDTests\obj\Debug\GCDTests.pdb

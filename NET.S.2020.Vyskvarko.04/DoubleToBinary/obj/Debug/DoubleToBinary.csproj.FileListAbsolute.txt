@@ -1,0 +1,10 @@
+D:\Project\repos\NET.S.2020.Vyskvarko.04\DoubleToBinary\bin\Debug\DoubleToBinary.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\DoubleToBinary\bin\Debug\DoubleToBinary.pdb
+D:\Project\repos\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.csprojAssemblyReference.cache
+D:\Project\repos\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.dll
+D:\Project\repos\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\DoubleToBinary\bin\Debug\DoubleToBinary.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\DoubleToBinary\bin\Debug\DoubleToBinary.pdb
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.csprojAssemblyReference.cache
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.dll
+C:\Users\Администратор\Downloads\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04-master\NET.S.2020.Vyskvarko.04\DoubleToBinary\obj\Debug\DoubleToBinary.pdb
